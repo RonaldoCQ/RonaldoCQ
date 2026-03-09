@@ -1,6 +1,6 @@
-## Olá! Me chamo Ronaldo Queiroz 😁
+## Olá! Me chamo Ronaldo Queiroz
 
-Um estudante de programação em busca de uma carreira na área. Sou apaixonado por desafios tecnológicos e estou sempre em busca de novos aprendizados. Tenho explorado diversas linguagens de programação, desde Python até JavaScript, e estou animado para contribuir e crescer na comunidade dev.
+Um estudante de Ciências de Dados em busca de uma carreira na área. Sou apaixonado por desafios tecnológicos e estou sempre em busca de novos aprendizados. Tenho explorado diversas linguagens de programação, desde Python até JavaScript, e estou animado para contribuir e crescer na comunidade dev.
 
 ## Redes Sociais
 
